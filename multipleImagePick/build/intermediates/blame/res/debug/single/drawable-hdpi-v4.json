@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/media/manish/New Volume/D/Gallary/multipleImagePick/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/media/manish/New Volume/D/Gallary/multipleImagePick/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/manish/New Volume/D/Gallary/multipleImagePick/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn_hover.9.png",
+        "source": "/media/manish/New Volume/D/Gallary/multipleImagePick/src/main/res/drawable-hdpi/btn_hover.9.png"
+    },
+    {
+        "merged": "/media/manish/New Volume/D/Gallary/multipleImagePick/build/intermediates/res/merged/debug/drawable-hdpi-v4/checkbox_selected.png",
+        "source": "/media/manish/New Volume/D/Gallary/multipleImagePick/src/main/res/drawable-hdpi/checkbox_selected.png"
+    },
+    {
+        "merged": "/media/manish/New Volume/D/Gallary/multipleImagePick/build/intermediates/res/merged/debug/drawable-hdpi-v4/btn.9.png",
+        "source": "/media/manish/New Volume/D/Gallary/multipleImagePick/src/main/res/drawable-hdpi/btn.9.png"
+    },
+    {
+        "merged": "/media/manish/New Volume/D/Gallary/multipleImagePick/build/intermediates/res/merged/debug/drawable-hdpi-v4/checkbox_up.png",
+        "source": "/media/manish/New Volume/D/Gallary/multipleImagePick/src/main/res/drawable-hdpi/checkbox_up.png"
+    },
+    {
+        "merged": "/media/manish/New Volume/D/Gallary/multipleImagePick/build/intermediates/res/merged/debug/drawable-hdpi-v4/top_bar.png",
+        "source": "/media/manish/New Volume/D/Gallary/multipleImagePick/src/main/res/drawable-hdpi/top_bar.png"
+    }
+]

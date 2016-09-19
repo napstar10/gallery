@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "/media/manish/New Volume/D/Gallary/multipleImagePick/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn_hover.9.png",
+        "source": "/media/manish/New Volume/D/Gallary/multipleImagePick/src/main/res/drawable-mdpi/btn_hover.9.png"
+    },
+    {
+        "merged": "/media/manish/New Volume/D/Gallary/multipleImagePick/build/intermediates/res/merged/debug/drawable-mdpi-v4/checkbox_up.png",
+        "source": "/media/manish/New Volume/D/Gallary/multipleImagePick/src/main/res/drawable-mdpi/checkbox_up.png"
+    },
+    {
+        "merged": "/media/manish/New Volume/D/Gallary/multipleImagePick/build/intermediates/res/merged/debug/drawable-mdpi-v4/checkbox_selected.png",
+        "source": "/media/manish/New Volume/D/Gallary/multipleImagePick/src/main/res/drawable-mdpi/checkbox_selected.png"
+    },
+    {
+        "merged": "/media/manish/New Volume/D/Gallary/multipleImagePick/build/intermediates/res/merged/debug/drawable-mdpi-v4/no_media.jpg",
+        "source": "/media/manish/New Volume/D/Gallary/multipleImagePick/src/main/res/drawable-mdpi/no_media.jpg"
+    },
+    {
+        "merged": "/media/manish/New Volume/D/Gallary/multipleImagePick/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/media/manish/New Volume/D/Gallary/multipleImagePick/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/media/manish/New Volume/D/Gallary/multipleImagePick/build/intermediates/res/merged/debug/drawable-mdpi-v4/btn.9.png",
+        "source": "/media/manish/New Volume/D/Gallary/multipleImagePick/src/main/res/drawable-mdpi/btn.9.png"
+    },
+    {
+        "merged": "/media/manish/New Volume/D/Gallary/multipleImagePick/build/intermediates/res/merged/debug/drawable-mdpi-v4/top_bar.png",
+        "source": "/media/manish/New Volume/D/Gallary/multipleImagePick/src/main/res/drawable-mdpi/top_bar.png"
+    }
+]

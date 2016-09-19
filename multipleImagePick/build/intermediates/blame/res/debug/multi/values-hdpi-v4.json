@@ -1,0 +1,45 @@
+[
+    {
+        "outputFile": "/media/manish/New Volume/D/Gallary/multipleImagePick/build/intermediates/res/merged/debug/values-hdpi-v4/values-hdpi-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 44,
+                    "endOffset": 95
+                },
+                "from": {
+                    "file": "/media/manish/New Volume/D/Gallary/multipleImagePick/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 663,
+                        "endColumn": 44,
+                        "endOffset": 703
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 100,
+                    "endColumn": 43,
+                    "endOffset": 139
+                },
+                "from": {
+                    "file": "/media/manish/New Volume/D/Gallary/multipleImagePick/src/main/res/values-hdpi/dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 619,
+                        "endColumn": 43,
+                        "endOffset": 658
+                    }
+                }
+            }
+        ]
+    }
+]
